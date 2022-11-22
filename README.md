@@ -24,5 +24,5 @@ This happens when Google receives to much suspicious requests. Because we run th
 ## Future
 - [ ] Add more decoy browser information
 - [ ] More dynamic script arguments
-    - [ ] Output path/type
-    - [ ] Proxy support
+    - [x] Output path/type
+    - [x] Proxy support

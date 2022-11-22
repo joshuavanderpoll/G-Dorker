@@ -129,6 +129,6 @@ dmypy.json
 .pyre/
 
 # Other
-output.json
 .DS_Store
 .idea
+*.json
